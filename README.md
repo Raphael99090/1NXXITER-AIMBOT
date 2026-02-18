@@ -1,13 +1,19 @@
-# 1NXXITER AIMBOT
+# 1NXITER AIMBOT v1.8
 
-## Documentation
+## Features
+- Advanced targeting system
+- Adjustable aim sensitivity
+- Customizable key bindings
+- User-friendly GUI
 
-This repository contains the 1NXXITER AIMBOT project.
+## Installation
+1. Download the latest version from the releases page.
+2. Extract the files to your desired location.
+3. Open the application and follow the on-screen instructions to set up.
 
-### Current Date and Time (UTC)
-2026-02-18 15:30:48
+## Usage
+- Configure the settings according to your preferences.
+- Launch the application before starting your game for optimal performance.
 
-### Contact
-For inquiries, please email: jubileisao@gmail.com
-
----
+## Contact
+For any inquiries or support, please reach out to: jubileisao@gmail.com
